@@ -15,6 +15,8 @@ https://docs.python.org/3/library/itertools.html
 https://docs.python.org/3/library/random.html
 https://numpy.org/doc/stable/user/absolute_beginners.html
 https://matplotlib.org/stable/contents.html
+https://docs.scipy.org/doc/scipy/reference/stats.html
+https://www.statsmodels.org/stable/index.html
 
 Lady Tasting Tea:
 https://en.wikipedia.org/wiki/Lady_tasting_tea
