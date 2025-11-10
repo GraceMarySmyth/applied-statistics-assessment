@@ -32,3 +32,6 @@ https://owl.excelsior.edu/research/research-hypotheses/types-of-research-hypothe
 https://owl.excelsior.edu/research/research-hypotheses/types-of-research-hypotheses/#:~:text=Simple%20Hypothesis,more%20independent%20and%20dependent%20variables.
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
 https://www.scribbr.com/statistics/statistical-power/#:~:text=Statistical%20power%2C%20or%20sensitivity%2C%20is,sample%20size%20for%20a%20study
+
+Normal Distribution
+https://en.wikipedia.org/wiki/Bessel%27s_correction
