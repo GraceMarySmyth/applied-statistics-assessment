@@ -35,3 +35,5 @@ https://www.scribbr.com/statistics/statistical-power/#:~:text=Statistical%20powe
 
 Normal Distribution
 https://en.wikipedia.org/wiki/Bessel%27s_correction
+https://numpy.org/doc/2.1/reference/random/generated/numpy.random.binomial.html
+https://www.datacamp.com/doc/numpy/sum
