@@ -9,6 +9,9 @@ As per the README in the applied statistics Github account by Dr Ian McLoughlan 
 - Perform a statistical test on a data set.
 
 # References used in the notebook
+Markdown formatting:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 Imports:
 https://docs.python.org/3/library/math.html
 https://docs.python.org/3/library/itertools.html
@@ -33,9 +36,10 @@ https://owl.excelsior.edu/research/research-hypotheses/types-of-research-hypothe
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
 https://www.scribbr.com/statistics/statistical-power/#:~:text=Statistical%20power%2C%20or%20sensitivity%2C%20is,sample%20size%20for%20a%20study
 
-Normal Distribution
+Normal Distribution:
 https://en.wikipedia.org/wiki/Bessel%27s_correction
 https://numpy.org/doc/2.1/reference/random/generated/numpy.random.binomial.html
 https://www.datacamp.com/doc/numpy/sum
 https://www.geeksforgeeks.org/pandas/bar-plot-in-matplotlib/
 https://en.wikipedia.org/wiki/Probability_distribution
+https://numpy.org/doc/stable/reference/generated/numpy.unique.html#main-content
