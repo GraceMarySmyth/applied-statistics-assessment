@@ -37,3 +37,5 @@ Normal Distribution
 https://en.wikipedia.org/wiki/Bessel%27s_correction
 https://numpy.org/doc/2.1/reference/random/generated/numpy.random.binomial.html
 https://www.datacamp.com/doc/numpy/sum
+https://www.geeksforgeeks.org/pandas/bar-plot-in-matplotlib/
+https://en.wikipedia.org/wiki/Probability_distribution
