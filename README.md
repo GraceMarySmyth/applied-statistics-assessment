@@ -43,3 +43,6 @@ https://www.datacamp.com/doc/numpy/sum
 https://www.geeksforgeeks.org/pandas/bar-plot-in-matplotlib/
 https://en.wikipedia.org/wiki/Probability_distribution
 https://numpy.org/doc/stable/reference/generated/numpy.unique.html#main-content
+https://en.wikipedia.org/wiki/Normal_distribution
+https://en.wikipedia.org/wiki/Probability_density_function
+https://numpy.org/doc/2.2/reference/generated/numpy.sqrt.html
