@@ -46,3 +46,8 @@ https://numpy.org/doc/stable/reference/generated/numpy.unique.html#main-content
 https://en.wikipedia.org/wiki/Normal_distribution
 https://en.wikipedia.org/wiki/Probability_density_function
 https://numpy.org/doc/2.2/reference/generated/numpy.sqrt.html
+https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html
+https://numpy.org/doc/2.2/reference/generated/numpy.sqrt.html
+https://numpy.org/doc/stable/reference/generated/numpy.exp.html
+https://numpy.org/doc/stable/reference/generated/numpy.pi.html
+https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html
