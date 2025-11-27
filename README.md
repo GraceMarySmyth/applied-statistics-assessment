@@ -51,3 +51,5 @@ https://numpy.org/doc/2.2/reference/generated/numpy.sqrt.html
 https://numpy.org/doc/stable/reference/generated/numpy.exp.html
 https://numpy.org/doc/stable/reference/generated/numpy.pi.html
 https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html
+https://numpy.org/doc/2.2/reference/generated/numpy.histogram.html
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
