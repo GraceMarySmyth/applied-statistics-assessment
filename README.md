@@ -54,3 +54,5 @@ https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html
 https://numpy.org/doc/2.2/reference/generated/numpy.histogram.html
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
 https://en.wikipedia.org/wiki/Sampling_distribution
+https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)/06%3A_Sampling_Distributions/6.01%3A_The_Mean_and_Standard_Deviation_of_the_Sample_Mean
+https://www.datacamp.com/tutorial/sample-standard-deviation
