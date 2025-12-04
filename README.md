@@ -21,7 +21,7 @@ https://matplotlib.org/stable/contents.html
 https://docs.scipy.org/doc/scipy/reference/stats.html
 https://www.statsmodels.org/stable/index.html
 
-Lady Tasting Tea:
+Problem 1: Lady Tasting Tea.
 https://en.wikipedia.org/wiki/Lady_tasting_tea
 https://en.wikipedia.org/wiki/Combination
 https://docs.python.org/3/library/math.html#math.comb
@@ -36,7 +36,7 @@ https://owl.excelsior.edu/research/research-hypotheses/types-of-research-hypothe
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
 https://www.scribbr.com/statistics/statistical-power/#:~:text=Statistical%20power%2C%20or%20sensitivity%2C%20is,sample%20size%20for%20a%20study
 
-Normal Distribution:
+Problem 2: Normal Distribution.
 https://en.wikipedia.org/wiki/Bessel%27s_correction
 https://numpy.org/doc/2.1/reference/random/generated/numpy.random.binomial.html
 https://www.datacamp.com/doc/numpy/sum
@@ -56,3 +56,6 @@ https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
 https://en.wikipedia.org/wiki/Sampling_distribution
 https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)/06%3A_Sampling_Distributions/6.01%3A_The_Mean_and_Standard_Deviation_of_the_Sample_Mean
 https://www.datacamp.com/tutorial/sample-standard-deviation
+
+Problem 3: Type II error.
+
