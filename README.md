@@ -58,4 +58,9 @@ https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_St
 https://www.datacamp.com/tutorial/sample-standard-deviation
 
 Problem 3: Type II error.
+https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
+https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 
+Problem 4: ANOVA
+https://en.wikipedia.org/wiki/Analysis_of_variance
+https://en.wikipedia.org/wiki/F-test
