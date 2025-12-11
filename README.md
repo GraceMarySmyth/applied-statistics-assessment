@@ -22,6 +22,7 @@ https://docs.scipy.org/doc/scipy/reference/stats.html
 https://www.statsmodels.org/stable/index.html
 
 Problem 1: Lady Tasting Tea.
+https://cdn.pixabay.com/animation/2022/12/05/07/21/07-21-38-732_512.gif
 https://en.wikipedia.org/wiki/Lady_tasting_tea
 https://en.wikipedia.org/wiki/Combination
 https://docs.python.org/3/library/math.html#math.comb
@@ -37,6 +38,7 @@ https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
 https://www.scribbr.com/statistics/statistical-power/#:~:text=Statistical%20power%2C%20or%20sensitivity%2C%20is,sample%20size%20for%20a%20study
 
 Problem 2: Normal Distribution.
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg3NWoxbmlidzg3dnp6bGRpM2g2aDBlaDVpd3JxNHk4NWZtanV3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8TIlyVS7JixO/giphy.gif
 https://en.wikipedia.org/wiki/Bessel%27s_correction
 https://numpy.org/doc/2.1/reference/random/generated/numpy.random.binomial.html
 https://www.datacamp.com/doc/numpy/sum
@@ -61,8 +63,9 @@ https://www.spss-tutorials.com/spss-shapiro-wilk-test-for-normality/
 https://docs.scipy.org/doc/scipy-1.16.2/tutorial/stats/hypothesis_shapiro.html
 
 Problem 3: Type II error.
+https://media1.tenor.com/m/Z8bTkI7qkVUAAAAC/guinness-real.gif" alt="Guinness GIF" style="display: block; margin: 0 auto; max-width: 100%;
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
-
+https://en.wikipedia.org/wiki/William_Sealy_Gosset
 
 Problem 4: ANOVA
 https://en.wikipedia.org/wiki/Analysis_of_variance
