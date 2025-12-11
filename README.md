@@ -56,10 +56,13 @@ https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
 https://en.wikipedia.org/wiki/Sampling_distribution
 https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)/06%3A_Sampling_Distributions/6.01%3A_The_Mean_and_Standard_Deviation_of_the_Sample_Mean
 https://www.datacamp.com/tutorial/sample-standard-deviation
+https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
+https://www.spss-tutorials.com/spss-shapiro-wilk-test-for-normality/
+https://docs.scipy.org/doc/scipy-1.16.2/tutorial/stats/hypothesis_shapiro.html
 
 Problem 3: Type II error.
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
-https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
+
 
 Problem 4: ANOVA
 https://en.wikipedia.org/wiki/Analysis_of_variance
