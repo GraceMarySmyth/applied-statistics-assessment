@@ -67,6 +67,7 @@ Problem 3: Type II error.
 https://media1.tenor.com/m/Z8bTkI7qkVUAAAAC/guinness-real.gif" alt="Guinness GIF" style="display: block; margin: 0 auto; max-width: 100%;
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
 https://en.wikipedia.org/wiki/William_Sealy_Gosset
+https://en.wikipedia.org/wiki/Student%27s_t-test
 
 Problem 4: ANOVA
 https://en.wikipedia.org/wiki/Analysis_of_variance
