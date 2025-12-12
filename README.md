@@ -68,6 +68,10 @@ https://media1.tenor.com/m/Z8bTkI7qkVUAAAAC/guinness-real.gif" alt="Guinness GIF
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
 https://en.wikipedia.org/wiki/William_Sealy_Gosset
 https://en.wikipedia.org/wiki/Student%27s_t-test
+https://numpy.org/devdocs/reference/random/generated/numpy.random.normal.html
+https://matplotlib.org/stable/gallery/statistics/histogram_multihist.html#sphx-glr-gallery-statistics-histogram-multihist-py
+https://seaborn.pydata.org/generated/seaborn.stripplot.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 
 Problem 4: ANOVA
 https://en.wikipedia.org/wiki/Analysis_of_variance
