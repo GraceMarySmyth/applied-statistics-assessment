@@ -72,6 +72,9 @@ https://numpy.org/devdocs/reference/random/generated/numpy.random.normal.html
 https://matplotlib.org/stable/gallery/statistics/histogram_multihist.html#sphx-glr-gallery-statistics-histogram-multihist-py
 https://seaborn.pydata.org/generated/seaborn.stripplot.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+https://seaborn.pydata.org/generated/seaborn.stripplot.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_1samp.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
 
 Problem 4: ANOVA
 https://en.wikipedia.org/wiki/Analysis_of_variance
