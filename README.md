@@ -21,6 +21,7 @@ https://matplotlib.org/stable/contents.html
 https://docs.scipy.org/doc/scipy/reference/stats.html
 https://www.statsmodels.org/stable/index.html
 https://seaborn.pydata.org/
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
 
 Problem 1: Lady Tasting Tea.
 https://cdn.pixabay.com/animation/2022/12/05/07/21/07-21-38-732_512.gif
