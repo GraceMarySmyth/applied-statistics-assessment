@@ -80,3 +80,5 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
 Problem 4: ANOVA
 https://en.wikipedia.org/wiki/Analysis_of_variance
 https://en.wikipedia.org/wiki/F-test
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+https://docs.python.org/3/library/math.html
