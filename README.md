@@ -84,3 +84,8 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 https://docs.python.org/3/library/math.html
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
 https://docs.python.org/3/library/itertools.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
+https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html
+https://en.wikipedia.org/wiki/Tukey%27s_range_test
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html
