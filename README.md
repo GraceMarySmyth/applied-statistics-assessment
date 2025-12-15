@@ -83,3 +83,4 @@ https://en.wikipedia.org/wiki/F-test
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 https://docs.python.org/3/library/math.html
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
+https://docs.python.org/3/library/itertools.html
