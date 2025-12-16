@@ -77,7 +77,8 @@ https://seaborn.pydata.org/generated/seaborn.stripplot.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_1samp.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
 
-Problem 4: ANOVA
+Problem 4: ANOVA.
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRuZ2I4cGcxbHVib21od3E2bGJkb3M0enYzdWF6aWp1ZG8yY2ppbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrGYQZWou5Z51vNRob/giphy.gif
 https://en.wikipedia.org/wiki/Analysis_of_variance
 https://en.wikipedia.org/wiki/F-test
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
@@ -89,3 +90,7 @@ https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html
 https://en.wikipedia.org/wiki/Tukey%27s_range_test
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html
+https://numpy.org/devdocs/reference/generated/numpy.concatenate.html
+https://en.wikipedia.org/wiki/One-way_analysis_of_variance
+https://numpy.org/devdocs/reference/generated/numpy.isnan.html
+https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif
