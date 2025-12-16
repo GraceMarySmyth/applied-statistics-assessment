@@ -76,6 +76,8 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 https://seaborn.pydata.org/generated/seaborn.stripplot.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_1samp.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.default_rng.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 
 Problem 4: ANOVA.
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRuZ2I4cGcxbHVib21od3E2bGJkb3M0enYzdWF6aWp1ZG8yY2ppbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrGYQZWou5Z51vNRob/giphy.gif
