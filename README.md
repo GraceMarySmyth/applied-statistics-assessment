@@ -9,16 +9,22 @@ As per the README in the applied statistics Github account by Dr Ian McLoughlan 
 - Perform a statistical test on a data set.
 
 # Problem 1: Lady Tasting Tea.
-The first problem in the notebook is based on the origional experiment by Ronald Fisher and reported in his book The Design of Experiments (1935). The original experiment containes 8 cups of tea. For this problem I expanded the problem to analyse 12 cups of tea. 8 with tea first and 4 milk first.
+The first problem in the notebook is based on the original experiment by Ronald Fisher, reported in his book The Design of Experiments (1935). The original experiment contained eight cups of tea. For this problem, I expanded the experiment to analyse twelve cups of tea: eight prepared with tea first and four prepared with milk first.
 
 # Problem 2: Normal Distribution.
-This problem in the notebook centred around flipping coins. I looked at first at one coin and the chance of heads or tails being returned when it was flipped. I then looked at the probability when two coins were flipped. The problem then required 100,000 samples of size 10 to be generated.  For each sample, compute the standard deviation with ddof=1 (sample SD) and with ddof=0 (population SD). Plot histograms of both sets of values on the same axes with transparency. In the analysis differences were identified and how we would expect those differences to change if the sample size increased.
+This problem in the notebook centred around flipping coins. I looked at first at one coin and the chance of heads or tails being returned when it was flipped. 
+
+I then looked at the probability when two coins were flipped. The problem then required 100,000 samples of size 10 to be generated.  For each sample, compute the standard deviation with ddof=1 (sample SD) and with ddof=0 (population SD). Plot histograms of both sets of values on the same axes with transparency. In the analysis differences were identified and how we would expect those differences to change if the sample size increased.
 
 # Problem 3: t-Tests,
-William Sealy Gosset (13 June 1876 – 16 October 1937) was an English statistician, chemist and brewer who worked for Guinness. In statistics, he pioneered small sample experimental design known as the t-Test or students t-Test. in this problem I identified the differences between type I and type II errors. I drew two samples of size 100, one from the standard normal distribution and one from the normal distribution with mean d and standard deviation 1. t-Tests were run on these samples and analysis done.
+William Sealy Gosset (13 June 1876 – 16 October 1937) was an English statistician, chemist and brewer who worked for Guinness. In statistics, he pioneered small sample experimental design known as the t-Test or students t-Test.
+
+In this problem I identified the differences between type I and type II errors. Two samples of size 100 were drawn, one from the standard normal distribution and one from the normal distribution with mean d and standard deviation 1. Independent t-Tests were run on these samples and results analysed
 
 # Problem 4: ANOVA.
-ANOVA (Analysis of Variance) extends hypothesis testing beyond two groups to compare means across multiple groups simultaneously. Instead of conducting multiple t-tests (which increases Type I error risk), ANOVA tests whether at least one group mean differs significantly from the others. For this problem three independant samples of size 30 were generated. ANOVA tests were performed and during this notebook it was explined why ANOVA was perferable over several t_Tests.
+ANOVA (Analysis of Variance) extends hypothesis testing beyond two groups to compare means across multiple groups simultaneously. Instead of conducting multiple t-tests (which increases the risk of Type I errors), ANOVA tests whether at least one group mean differs significantly from the others.
+
+For this problem, three independent samples of size 30 were generated. ANOVA tests were performed, and throughout the notebook it was explained why ANOVA is preferable to conducting several t-tests.
 
 
 # References used in the notebook
